@@ -4,7 +4,7 @@ Share code snippets with a link. A small, real Express service with a zero-build
 single-page UI, shipped as one deployable unit and hardened against the OWASP
 API top-ten basics.
 
-**Live:** Render → _pending deploy_ · Vercel → _pending deploy_
+**Live:** [Render](https://snipvault-v2.onrender.com) · [Vercel](https://snipvault-v2-msspgbe5e-adarshcod30s-projects.vercel.app)
 
 `express` · `helmet` · `express-rate-limit` · `cors` · zero-build vanilla UI
 
