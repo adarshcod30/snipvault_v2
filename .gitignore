@@ -9,3 +9,8 @@ npm-debug.log
 dist/
 build/
 .next/
+
+# test and type-checker artefacts
+coverage/
+*.tsbuildinfo
+.turbo/
