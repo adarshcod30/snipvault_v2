@@ -3,3 +3,9 @@ npm-debug.log
 .DS_Store
 .env
 .env.local
+
+# secrets, build output and local noise
+*.log
+dist/
+build/
+.next/
